@@ -1,0 +1,4 @@
+// avoir une historisation 
+// resoudre un prob au niveau de conflit 
+// possibilité des branches ( timeline ( temps paralléles , modification en ligne ) 
+
